@@ -377,14 +377,17 @@ command = 'curl --data-urlencode text=\"%s\" https://api.telegram.org/bot2550951
 
 
 ### 스샷
-- 구글에 업로드 후 라이브러리 등록
-  + 다운로드 후 구글 싱크 폴더로 이동
+다운로드 후 구글 싱크 폴더로 이동
 ![034oi5ec](https://i.imgur.com/KN9cf6v.png)
-  + 6분후 업로드 완료. 파일 삭제하고 스캔 시작 명령 전달
+
+6분후 업로드 완료. 파일 삭제하고 스캔 시작 명령 전달
 ![969n5z8e](https://i.imgur.com/vzDHUNa.png)
-  + scan_wait에서 스캐너 실행
+
+scan_wait에서 스캐너 실행
 ![qlpot1sn](https://i.imgur.com/Y3vf37P.png)
-  + 스캔 수행
+
+스캔 수행
 ![osborm11](https://i.imgur.com/mv4yQx3.png)
-  + PlexPy 라이브러리 등록 noti
+
+PlexPy 라이브러리 등록 noti
 ![gju8qfyh](https://i.imgur.com/KDDmZlg.png)
